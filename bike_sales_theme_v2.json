@@ -1,0 +1,44 @@
+{
+  "name": "Bike Sales - Sage Theme v2",
+  "dataColors": [
+    "#A9C4B8",
+    "#1F3A5F",
+    "#C97B4A",
+    "#7FA593",
+    "#3D5A7A",
+    "#E0D4B8",
+    "#8C4F30",
+    "#5E7C6E"
+  ],
+  "background": "#F4F4F4",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#A9C4B8",
+  "good": "#7FA593",
+  "neutral": "#F2E8D5",
+  "bad": "#C97B4A",
+  "maximum": "#1F3A5F",
+  "center": "#F2E8D5",
+  "minimum": "#F4F4F4",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#2B2B2B"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#2B2B2B"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#4A4A4A"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1F3A5F"
+    }
+  }
+}
